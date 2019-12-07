@@ -1,3 +1,5 @@
+package DP;
+
 public class ChampagneTower {
 	
 	public static double champagneTower(int poured, int row, int col) {
